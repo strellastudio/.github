@@ -4,7 +4,7 @@
 <p align="center">
   Association à but non lucratif, agissant pour l'intérêt de tous dans le développement numérique et la création d'identités visuelles.
 </p>
-<div align="center"> </div><a href="https://strellastudio.fr"><strong>strellastudio.fr</strong></a></div>
+<div align="center"><a href="https://strellastudio.fr"><strong>strellastudio.fr</strong></a></div>
 
 ### Qui sommes-nous?
 
