@@ -1,4 +1,4 @@
-![Banner](./profile/assets/banner.svg)
+![Banner](./assets/banner.svg)
 
 <h1 align="center"><b>StrellaStudio</b></h1>
 <p align="center">
